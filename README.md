@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/cristantegiacomo/my-leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/cristantegiacomo/my-leetcode/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/cristantegiacomo/my-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/cristantegiacomo/my-leetcode/tree/master/0217-contains-duplicate) |
 | [0739-daily-temperatures](https://github.com/cristantegiacomo/my-leetcode/tree/master/0739-daily-temperatures) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/cristantegiacomo/my-leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/cristantegiacomo/my-leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/cristantegiacomo/my-leetcode/tree/master/0242-valid-anagram) |
 | [0853-car-fleet](https://github.com/cristantegiacomo/my-leetcode/tree/master/0853-car-fleet) |
@@ -36,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/cristantegiacomo/my-leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/cristantegiacomo/my-leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/cristantegiacomo/my-leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/cristantegiacomo/my-leetcode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/cristantegiacomo/my-leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/cristantegiacomo/my-leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
