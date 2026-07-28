@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/cristantegiacomo/my-leetcode/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/cristantegiacomo/my-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/cristantegiacomo/my-leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/cristantegiacomo/my-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/cristantegiacomo/my-leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/cristantegiacomo/my-leetcode/tree/master/0853-car-fleet) |
 ## Math
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/cristantegiacomo/my-leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/cristantegiacomo/my-leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/cristantegiacomo/my-leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/cristantegiacomo/my-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/cristantegiacomo/my-leetcode/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
@@ -41,9 +43,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/cristantegiacomo/my-leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/cristantegiacomo/my-leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/cristantegiacomo/my-leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/cristantegiacomo/my-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/cristantegiacomo/my-leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/cristantegiacomo/my-leetcode/tree/master/0242-valid-anagram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/cristantegiacomo/my-leetcode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/cristantegiacomo/my-leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/cristantegiacomo/my-leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/cristantegiacomo/my-leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/cristantegiacomo/my-leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
