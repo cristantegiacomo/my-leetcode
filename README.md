@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/cristantegiacomo/my-leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/cristantegiacomo/my-leetcode/tree/master/0242-valid-anagram) |
 | [0853-car-fleet](https://github.com/cristantegiacomo/my-leetcode/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
@@ -34,4 +35,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/cristantegiacomo/my-leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/cristantegiacomo/my-leetcode/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/cristantegiacomo/my-leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
