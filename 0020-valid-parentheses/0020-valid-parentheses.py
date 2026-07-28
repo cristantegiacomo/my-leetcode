@@ -1,10 +1,19 @@
 class Solution:
     def isValid(self, s: str) -> bool:
+        stack=[]
+        closers={ ')': '(', ']': '[', '}': '{' }
+        
+        for c in s:
+            if c in closers:
+                if stack and stack[-1]==closers[c]:
+                    stack.pop()
+                else: return False
+            else:
+                stack.append(c)
 
-        while '()' in s or '[]' in s or '{}' in s:
-            s=s.replace('()', '')
-            s=s.replace('[]', '')
-            s=s.replace('{}', '')
-        return s==''
+        if not stack: 
+            return True
+        else:
+            return False
 
-# brute force O(n^2)       
+# soluzione con stack O(n)   
