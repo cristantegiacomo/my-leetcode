@@ -1,8 +1,11 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         mp=collections.defaultdict(list)
-
         for s in strs:
-            mp[str(sorted(s))].append(s)
-        
-        return list(mp.values())     
+            count=[0]*26
+            for c in s:
+                count[ord(c)-ord('a')]+=1
+            mp[tuple(count)].append(s)  
+        return list(mp.values()) 
+
+# al posto di fare sorting: O(n logn) uso un for: O(n)
