@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/cristantegiacomo/my-leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/cristantegiacomo/my-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/cristantegiacomo/my-leetcode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/cristantegiacomo/my-leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/cristantegiacomo/my-leetcode/tree/master/0853-car-fleet) |
 ## Sorting
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/cristantegiacomo/my-leetcode/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/cristantegiacomo/my-leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
