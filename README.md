@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/cristantegiacomo/my-leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/cristantegiacomo/my-leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/cristantegiacomo/my-leetcode/tree/master/0242-valid-anagram) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/cristantegiacomo/my-leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Divide and Conquer
 |  |
 | ------- |
