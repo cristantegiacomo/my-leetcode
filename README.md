@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/cristantegiacomo/my-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/cristantegiacomo/my-leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/cristantegiacomo/my-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0981-time-based-key-value-store](https://github.com/cristantegiacomo/my-leetcode/tree/master/0981-time-based-key-value-store) |
 ## String
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/cristantegiacomo/my-leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/cristantegiacomo/my-leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/cristantegiacomo/my-leetcode/tree/master/0242-valid-anagram) |
+| [0981-time-based-key-value-store](https://github.com/cristantegiacomo/my-leetcode/tree/master/0981-time-based-key-value-store) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/cristantegiacomo/my-leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Divide and Conquer
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/cristantegiacomo/my-leetcode/tree/master/0155-min-stack) |
+| [0981-time-based-key-value-store](https://github.com/cristantegiacomo/my-leetcode/tree/master/0981-time-based-key-value-store) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cristantegiacomo/my-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/cristantegiacomo/my-leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/cristantegiacomo/my-leetcode/tree/master/0704-binary-search) |
+| [0981-time-based-key-value-store](https://github.com/cristantegiacomo/my-leetcode/tree/master/0981-time-based-key-value-store) |
 ## Greedy
 |  |
 | ------- |
