@@ -15,17 +15,11 @@ class Solution:
                     m2=nums2[j]
                     j+=1
             elif j < len2:
-                if nums2[j] >= m2:
-                    m2=nums2[j]
-                    j+=1
-                else:
-                    break
+                m2=nums2[j]
+                j+=1
             elif i < len1:
-                if nums1[i] >= m2:
-                    m2=nums1[i]
-                    i+=1
-                else:
-                    break
+                m2=nums1[i]
+                i+=1
 
         if (len1+len2) %2==0:
             return (m1+m2) / 2
