@@ -16,7 +16,7 @@ class Solution:
 
         prev, curr = None, head
         while curr:
-            if i > count // 2:
+            if i > (count+1) // 2:
                 tmp = curr.next
                 curr.next = prev
                 prev = curr
