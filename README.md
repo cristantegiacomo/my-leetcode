@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/cristantegiacomo/my-leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/cristantegiacomo/my-leetcode/tree/master/0853-car-fleet) |
 | [1929-concatenation-of-array](https://github.com/cristantegiacomo/my-leetcode/tree/master/1929-concatenation-of-array) |
+| [3731-find-missing-elements](https://github.com/cristantegiacomo/my-leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/cristantegiacomo/my-leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/cristantegiacomo/my-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/cristantegiacomo/my-leetcode/tree/master/0853-car-fleet) |
+| [3731-find-missing-elements](https://github.com/cristantegiacomo/my-leetcode/tree/master/3731-find-missing-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/cristantegiacomo/my-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/cristantegiacomo/my-leetcode/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/cristantegiacomo/my-leetcode/tree/master/0981-time-based-key-value-store) |
+| [3731-find-missing-elements](https://github.com/cristantegiacomo/my-leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
