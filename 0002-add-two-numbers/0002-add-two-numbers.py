@@ -6,39 +6,20 @@
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
         
-        curr1, curr2 = l1, l2
-        mp = defaultdict(int) # nodo -> riporto
-        res = prev = None
+        dummy = curr = ListNode()
 
-        while curr1 and curr2:
-            rip = 0
-            sum = curr1.val + curr2.val
-            if sum >= 10:
-                sum -= 10 
-                rip += 1
-            new_node = ListNode(sum) 
-            mp[new_node] += rip
-            curr1, curr2 = curr1.next, curr2.next
+        carry = 0
+        while l1 or l2 or carry:
+            v1 = l1.val if l1 else 0
+            v2 = l2.val if l2 else 0
 
-        while curr1:
-            mp[ListNode(curr1.val)] = 0
-            curr1 = curr1.next 
-        while curr2:
-            mp[ListNode(curr2.val)] = 0 
-            curr2 = curr2.next
+            val = v1 + v2 + carry
+            carry = val // 10
+            val = val % 10
+            curr.next = ListNode(val)
 
-        for nd in mp:
-            if not res: res = nd
-            if prev:
-                prev.next = nd
-                nd.val += mp[prev]
-                if nd.val >= 10:
-                    nd.val -= 10
-                    mp[nd] += 1
-            prev = nd
+            curr = curr.next
+            l1 = l1.next if l1 else None
+            l2 = l2.next if l2 else None
 
-        if prev and mp[prev] > 0:
-            new_node = ListNode(1, next=None)
-            prev.next = new_node
-        
-        return res
+        return dummy.next
