@@ -8,9 +8,14 @@ class Solution:
         if not lists:
             return None
 
-        for i in range(len(lists)-1):
-            lists[i+1] = self.merge(lists[i],lists[i+1])
-        return lists[len(lists)-1]
+        while len(lists) > 1:
+            mergedlists = []
+            for i in range(0, len(lists), 2):
+                l1 = lists[i]
+                l2 = lists[i+1] if i+1<len(lists) else None
+                mergedlists.append(self.merge(l1,l2))
+            lists = mergedlists
+        return lists[0]
 
 
     def merge(self, list1, list2):
