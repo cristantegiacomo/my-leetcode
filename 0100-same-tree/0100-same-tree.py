@@ -7,31 +7,22 @@
 class Solution:
     def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
 
-        queueP = deque()
-        queueQ = deque()
-        dummy = TreeNode(101)   #[-100,100] non dovrebbe funzionare
+        q1 = deque([p])
+        q2 = deque([q])
 
-        if p: queueP.append(p)
-        if q: queueQ.append(q)
+        while q1 and q2:
+            for _ in range(len(q1)):    
+                nodeP = q1.popleft()
+                nodeQ = q2.popleft()
 
-        while queueP and queueQ:
-            P_node = queueP.popleft()
-            Q_node = queueQ.popleft()
+                if nodeP is None and nodeQ is None:
+                    continue
+                if nodeP is None or nodeQ is None or nodeP.val != nodeQ.val:
+                    return False
 
-            if P_node.val != Q_node.val:
-                return False
+                q1.append(nodeP.left)
+                q1.append(nodeP.right)
+                q2.append(nodeQ.left)
+                q2.append(nodeQ.right)
 
-            if P_node.left: queueP.append(P_node.left)
-            elif P_node!=dummy: queueP.append(dummy)
-            if P_node.right: queueP.append(P_node.right)
-            elif P_node!=dummy: queueP.append(dummy)
-
-            if Q_node.left: queueQ.append(Q_node.left)
-            elif Q_node!=dummy: queueQ.append(dummy)
-            if Q_node.right: queueQ.append(Q_node.right)
-            elif Q_node!=dummy: queueQ.append(dummy)
-        
-        if queueP or queueQ:
-            return False
-        
         return True
