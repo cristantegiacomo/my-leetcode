@@ -20,23 +20,21 @@ class WordDictionary:
         
 
     def search(self, word: str) -> bool:
-        return self.dfs(word, self.root)
+        return self.dfs(word, 0, self.root)
         
 
-    def dfs(self, word, root):
+    def dfs(self, word, index, root):
         curr = root
-        list_s = list(word)
         var = False
 
-        for i, c in enumerate(word):
+        for i in range(index, len(word)):
+            c = word[i]
             if c not in curr.mp and c!=".":
                 return False
             
             if c == ".":
                 for key in curr.mp:
-                    list_s[i] = key
-                    stringa = "".join(list_s)
-                    var = var or self.dfs(stringa[i :], curr)
+                    var = var or self.dfs(word, i+1, curr.mp[key])
                 return var
             else:
                 curr = curr.mp[c]
