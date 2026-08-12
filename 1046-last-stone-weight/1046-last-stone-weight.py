@@ -1,10 +1,6 @@
 class Solution:
     def lastStoneWeight(self, stones: List[int]) -> int:
-        
-        for i in range(len(stones)):
-            stones[i] = -stones[i]
-            
-        maxHeap = stones
+        maxHeap = [-s for s in stones]
         heapq.heapify(maxHeap)
 
         while len(maxHeap) > 1:
@@ -12,4 +8,4 @@ class Solution:
             x = heapq.heappop(maxHeap)
             if x != y:
                 heapq.heappush(maxHeap, y-x)
-        return -maxHeap[0] if maxHeap else 0
+        return -maxHeap[0] if maxHeap else 0 
