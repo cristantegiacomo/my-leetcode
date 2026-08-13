@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/cristantegiacomo/my-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/cristantegiacomo/my-leetcode/tree/master/1046-last-stone-weight) |
 | [1929-concatenation-of-array](https://github.com/cristantegiacomo/my-leetcode/tree/master/1929-concatenation-of-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cristantegiacomo/my-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/cristantegiacomo/my-leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/cristantegiacomo/my-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/cristantegiacomo/my-leetcode/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/cristantegiacomo/my-leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cristantegiacomo/my-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/cristantegiacomo/my-leetcode/tree/master/3731-find-missing-elements) |
 ## Monotonic Stack
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/cristantegiacomo/my-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/cristantegiacomo/my-leetcode/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/cristantegiacomo/my-leetcode/tree/master/0981-time-based-key-value-store) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cristantegiacomo/my-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/cristantegiacomo/my-leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
