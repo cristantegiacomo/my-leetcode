@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/cristantegiacomo/my-leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/cristantegiacomo/my-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/cristantegiacomo/my-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/cristantegiacomo/my-leetcode/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/cristantegiacomo/my-leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/cristantegiacomo/my-leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/cristantegiacomo/my-leetcode/tree/master/0853-car-fleet) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/cristantegiacomo/my-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/cristantegiacomo/my-leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/cristantegiacomo/my-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/cristantegiacomo/my-leetcode/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/cristantegiacomo/my-leetcode/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/cristantegiacomo/my-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cristantegiacomo/my-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/cristantegiacomo/my-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/cristantegiacomo/my-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/cristantegiacomo/my-leetcode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/cristantegiacomo/my-leetcode/tree/master/0621-task-scheduler) |
 | [0981-time-based-key-value-store](https://github.com/cristantegiacomo/my-leetcode/tree/master/0981-time-based-key-value-store) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cristantegiacomo/my-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/cristantegiacomo/my-leetcode/tree/master/3731-find-missing-elements) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/cristantegiacomo/my-leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/cristantegiacomo/my-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/cristantegiacomo/my-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/cristantegiacomo/my-leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/cristantegiacomo/my-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/cristantegiacomo/my-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/cristantegiacomo/my-leetcode/tree/master/1046-last-stone-weight) |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/cristantegiacomo/my-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/cristantegiacomo/my-leetcode/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -207,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/cristantegiacomo/my-leetcode/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/cristantegiacomo/my-leetcode/tree/master/0621-task-scheduler) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cristantegiacomo/my-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
