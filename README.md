@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/cristantegiacomo/my-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/cristantegiacomo/my-leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/cristantegiacomo/my-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/cristantegiacomo/my-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/cristantegiacomo/my-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/cristantegiacomo/my-leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/cristantegiacomo/my-leetcode/tree/master/0621-task-scheduler) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/cristantegiacomo/my-leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/cristantegiacomo/my-leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/cristantegiacomo/my-leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/cristantegiacomo/my-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/cristantegiacomo/my-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/cristantegiacomo/my-leetcode/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/cristantegiacomo/my-leetcode/tree/master/0981-time-based-key-value-store) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/cristantegiacomo/my-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/cristantegiacomo/my-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/cristantegiacomo/my-leetcode/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
@@ -403,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/cristantegiacomo/my-leetcode/tree/master/0069-sqrtx) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/cristantegiacomo/my-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
