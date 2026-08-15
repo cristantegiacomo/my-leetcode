@@ -1,12 +1,13 @@
 class Solution:
     def longestPalindrome(self, s: str) -> int:
-        counts = Counter(s)
-        tot = foundOdd = 0
+        seen = set()
+        res = 0
 
-        for freq in counts.values():
-            val = freq - freq % 2
-            if freq%2 != 0:
-                foundOdd = 1
-            tot += val
+        for c in s:
+            if c in seen:
+                seen.remove(c)
+                res += 2
+            else:
+                seen.add(c)
 
-        return tot + foundOdd
+        return res + 1 if seen else res
