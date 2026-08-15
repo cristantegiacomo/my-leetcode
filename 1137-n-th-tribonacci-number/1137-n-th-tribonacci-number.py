@@ -1,11 +1,11 @@
 class Solution:
     def tribonacci(self, n: int) -> int:
-      Tr = defaultdict(int)
-      Tr[0] = 0
-      Tr[1] = 1
-      Tr[2] = 1
+        t = [0, 1, 1]
 
-      for i in range(3, n+1):
-        Tr[i] = Tr[i-1] + Tr[i-2] + Tr[i-3]
-        if i >= 4: del Tr[i-4]
-      return Tr[n]  
+        if n < 3:
+            return t[n]
+        
+        for i in range(3,n+1):
+            t[0], t[1], t[2] = t[1], t[2], sum(t)
+            
+        return t[2]
