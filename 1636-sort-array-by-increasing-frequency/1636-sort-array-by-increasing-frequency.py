@@ -1,7 +1,8 @@
 class Solution:
     def frequencySort(self, nums: List[int]) -> List[int]:
         counts = Counter(nums)
-        bucket = [ [] for _ in range(len(nums)+1) ]
+        maxf = max(counts.values())
+        bucket = [ [] for _ in range(maxf+1) ]
         res = []
 
         for n, freq in counts.items():
