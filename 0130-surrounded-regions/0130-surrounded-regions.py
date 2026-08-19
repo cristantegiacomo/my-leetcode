@@ -2,27 +2,26 @@ class Solution:
     def solve(self, board: List[List[str]]) -> None:
         ROWS, COLS = len(board), len(board[0])
 
-        def capture(r, c):
+        def dfs(r, c):
             if r not in range(0,ROWS) or c not in range(0,COLS) or board[r][c] != "O":
                 return
-                
             board[r][c] = "T"
-            capture(r + 1, c)
-            capture(r - 1, c)
-            capture(r, c + 1)
-            capture(r, c - 1)
+            dfs(r + 1, c)
+            dfs(r - 1, c)
+            dfs(r, c + 1)
+            dfs(r, c - 1)
 
         for r in range(ROWS):
             if board[r][0] == "O":
-                capture(r, 0)
+                dfs(r, 0)
             if board[r][COLS - 1] == "O":
-                capture(r, COLS - 1)
+                dfs(r, COLS - 1)
 
         for c in range(COLS):
             if board[0][c] == "O":
-                capture(0, c)
+                dfs(0, c)
             if board[ROWS - 1][c] == "O":
-                capture(ROWS - 1, c)
+                dfs(ROWS - 1, c)
 
         for r in range(ROWS):
             for c in range(COLS):
