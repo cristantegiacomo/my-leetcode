@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/cristantegiacomo/my-leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/cristantegiacomo/my-leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/cristantegiacomo/my-leetcode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/cristantegiacomo/my-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/cristantegiacomo/my-leetcode/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/cristantegiacomo/my-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/cristantegiacomo/my-leetcode/tree/master/0994-rotting-oranges) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/cristantegiacomo/my-leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cristantegiacomo/my-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/cristantegiacomo/my-leetcode/tree/master/0131-palindrome-partitioning) |
+| [0746-min-cost-climbing-stairs](https://github.com/cristantegiacomo/my-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/cristantegiacomo/my-leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Sliding Window
 |  |
