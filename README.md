@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/cristantegiacomo/my-leetcode/tree/master/1598-crawler-log-folder) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/cristantegiacomo/my-leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1929-concatenation-of-array](https://github.com/cristantegiacomo/my-leetcode/tree/master/1929-concatenation-of-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/cristantegiacomo/my-leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/cristantegiacomo/my-leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cristantegiacomo/my-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/cristantegiacomo/my-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/cristantegiacomo/my-leetcode/tree/master/0981-time-based-key-value-store) |
 | [1512-number-of-good-pairs](https://github.com/cristantegiacomo/my-leetcode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/cristantegiacomo/my-leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2206-divide-array-into-equal-pairs](https://github.com/cristantegiacomo/my-leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/cristantegiacomo/my-leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cristantegiacomo/my-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/cristantegiacomo/my-leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/cristantegiacomo/my-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/cristantegiacomo/my-leetcode/tree/master/0621-task-scheduler) |
 | [1512-number-of-good-pairs](https://github.com/cristantegiacomo/my-leetcode/tree/master/1512-number-of-good-pairs) |
+| [2206-divide-array-into-equal-pairs](https://github.com/cristantegiacomo/my-leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Quickselect
 |  |
 | ------- |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/cristantegiacomo/my-leetcode/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/cristantegiacomo/my-leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/cristantegiacomo/my-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [2206-divide-array-into-equal-pairs](https://github.com/cristantegiacomo/my-leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
