@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/cristantegiacomo/my-leetcode/tree/master/1929-concatenation-of-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/cristantegiacomo/my-leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/cristantegiacomo/my-leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/cristantegiacomo/my-leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cristantegiacomo/my-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/cristantegiacomo/my-leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/cristantegiacomo/my-leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/cristantegiacomo/my-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/cristantegiacomo/my-leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/cristantegiacomo/my-leetcode/tree/master/1512-number-of-good-pairs) |
+| [2965-find-missing-and-repeated-values](https://github.com/cristantegiacomo/my-leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cristantegiacomo/my-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/cristantegiacomo/my-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/cristantegiacomo/my-leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/cristantegiacomo/my-leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2206-divide-array-into-equal-pairs](https://github.com/cristantegiacomo/my-leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/cristantegiacomo/my-leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/cristantegiacomo/my-leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cristantegiacomo/my-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/cristantegiacomo/my-leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/cristantegiacomo/my-leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/cristantegiacomo/my-leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/cristantegiacomo/my-leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/cristantegiacomo/my-leetcode/tree/master/0994-rotting-oranges) |
+| [2965-find-missing-and-repeated-values](https://github.com/cristantegiacomo/my-leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Union-Find
 |  |
 | ------- |
