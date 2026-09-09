@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/cristantegiacomo/my-leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/cristantegiacomo/my-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/cristantegiacomo/my-leetcode/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/cristantegiacomo/my-leetcode/tree/master/0647-palindromic-substrings) |
 | [0981-time-based-key-value-store](https://github.com/cristantegiacomo/my-leetcode/tree/master/0981-time-based-key-value-store) |
 | [1598-crawler-log-folder](https://github.com/cristantegiacomo/my-leetcode/tree/master/1598-crawler-log-folder) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/cristantegiacomo/my-leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cristantegiacomo/my-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/cristantegiacomo/my-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/cristantegiacomo/my-leetcode/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/cristantegiacomo/my-leetcode/tree/master/0647-palindromic-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/cristantegiacomo/my-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/cristantegiacomo/my-leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/cristantegiacomo/my-leetcode/tree/master/0213-house-robber-ii) |
+| [0647-palindromic-substrings](https://github.com/cristantegiacomo/my-leetcode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/cristantegiacomo/my-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/cristantegiacomo/my-leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Sliding Window
