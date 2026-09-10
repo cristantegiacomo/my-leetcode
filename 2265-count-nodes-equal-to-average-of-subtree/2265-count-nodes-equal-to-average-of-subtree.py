@@ -16,12 +16,13 @@ class Solution:
             sumL, numL = dfs(node.left)
             sumR, numR = dfs(node.right)
 
-            avg = (sumL + sumR + node.val) // (numR + numL + 1)
+            curr_sum = node.val + sumL + sumR
+            curr_num = 1 + numR + numL
 
-            if node.val == avg:
+            if node.val == curr_sum // curr_num:
                 res += 1
 
-            return (node.val + sumL + sumR, 1 + numL + numR)
+            return (curr_sum, curr_num)
 
         dfs(root)
         return res
