@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/cristantegiacomo/my-leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/cristantegiacomo/my-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/cristantegiacomo/my-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/cristantegiacomo/my-leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/cristantegiacomo/my-leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/cristantegiacomo/my-leetcode/tree/master/0463-island-perimeter) |
 | [0621-task-scheduler](https://github.com/cristantegiacomo/my-leetcode/tree/master/0621-task-scheduler) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/cristantegiacomo/my-leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/cristantegiacomo/my-leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/cristantegiacomo/my-leetcode/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/cristantegiacomo/my-leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0973-k-closest-points-to-origin](https://github.com/cristantegiacomo/my-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/cristantegiacomo/my-leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/cristantegiacomo/my-leetcode/tree/master/1512-number-of-good-pairs) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/cristantegiacomo/my-leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/cristantegiacomo/my-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/cristantegiacomo/my-leetcode/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/cristantegiacomo/my-leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/cristantegiacomo/my-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/cristantegiacomo/my-leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/cristantegiacomo/my-leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/cristantegiacomo/my-leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/cristantegiacomo/my-leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0355-design-twitter](https://github.com/cristantegiacomo/my-leetcode/tree/master/0355-design-twitter) |
+| [0380-insert-delete-getrandom-o1](https://github.com/cristantegiacomo/my-leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/cristantegiacomo/my-leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0981-time-based-key-value-store](https://github.com/cristantegiacomo/my-leetcode/tree/master/0981-time-based-key-value-store) |
 ## Prefix Sum
@@ -558,4 +562,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/cristantegiacomo/my-leetcode/tree/master/0207-course-schedule) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/cristantegiacomo/my-leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
