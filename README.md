@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/cristantegiacomo/my-leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/cristantegiacomo/my-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/cristantegiacomo/my-leetcode/tree/master/0853-car-fleet) |
+| [0860-lemonade-change](https://github.com/cristantegiacomo/my-leetcode/tree/master/0860-lemonade-change) |
 | [0973-k-closest-points-to-origin](https://github.com/cristantegiacomo/my-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/cristantegiacomo/my-leetcode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/cristantegiacomo/my-leetcode/tree/master/1046-last-stone-weight) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/cristantegiacomo/my-leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/cristantegiacomo/my-leetcode/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/cristantegiacomo/my-leetcode/tree/master/0621-task-scheduler) |
+| [0860-lemonade-change](https://github.com/cristantegiacomo/my-leetcode/tree/master/0860-lemonade-change) |
 | [2864-maximum-odd-binary-number](https://github.com/cristantegiacomo/my-leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cristantegiacomo/my-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
