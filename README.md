@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/cristantegiacomo/my-leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/cristantegiacomo/my-leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/cristantegiacomo/my-leetcode/tree/master/1512-number-of-good-pairs) |
+| [2864-maximum-odd-binary-number](https://github.com/cristantegiacomo/my-leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/cristantegiacomo/my-leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cristantegiacomo/my-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/cristantegiacomo/my-leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/cristantegiacomo/my-leetcode/tree/master/0981-time-based-key-value-store) |
 | [1598-crawler-log-folder](https://github.com/cristantegiacomo/my-leetcode/tree/master/1598-crawler-log-folder) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/cristantegiacomo/my-leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [2864-maximum-odd-binary-number](https://github.com/cristantegiacomo/my-leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/cristantegiacomo/my-leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cristantegiacomo/my-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Divide and Conquer
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/cristantegiacomo/my-leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/cristantegiacomo/my-leetcode/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/cristantegiacomo/my-leetcode/tree/master/0621-task-scheduler) |
+| [2864-maximum-odd-binary-number](https://github.com/cristantegiacomo/my-leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cristantegiacomo/my-leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Simulation
 |  |
